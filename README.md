@@ -1,6 +1,7 @@
 # Elysian and Jewels
  Jewells is a luxurious jewelry website that showcases exquisite collections of high-end jewelry pieces. With stunning visuals, detailed product descriptions, and a seamless shopping experience, it offers customers an elegant platform to find their perfect statement pieces.
-# Some features that I've included include destination guides to help explore popular travel destinations, service Information elaborating on travel services the travel companz offers, including accommodation booking, guided tours, and travel insurance, interactive Maps
+# Some features 
+that I've included include destination guides to help explore popular travel destinations, service Information elaborating on travel services the travel companz offers, including accommodation booking, guided tours, and travel insurance, interactive Maps
 .
 Technologies Used
 
