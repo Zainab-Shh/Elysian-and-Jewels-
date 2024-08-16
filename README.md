@@ -1,2 +1,3 @@
-# Elysian-and-Jewels-
-Elysian and Jewels is a luxurious and sophisticated online platform designed to showcase an exquisite collection of high-end jewelry. The website is crafted to reflect the elegance and timeless beauty of the jewelry pieces it features, offering an immersive and visually stunning experience for customers.
+# day-30
+ Jewells is a luxurious jewelry website that showcases exquisite collections of high-end jewelry pieces. With stunning visuals, detailed product descriptions, and a seamless shopping experience, it offers customers an elegant platform to find their perfect statement pieces.
+# Elysian and Jewels
